@@ -27,7 +27,7 @@ The current Egeria maintainers are:
 | Cezar Sirbu           | sirbunicolaecezar@gmail.com    | sarbull 
 | Liviu Constantin Popa | liviu-constantin.popa@ing.com  | lcpopa
 | Cristian-Mihai Iliescu |  cristianmihaiiliescu@gmail.com  | MihaiIliescu
-
+|Alexander petree       | apetree1001@email.phoenix.edu  | apetree100122 |
 To understand how to become an Egeria maintainer
 see the [Egeria Operations Guide](https://egeria-project.org/guides/project-operations/).
 
@@ -50,7 +50,7 @@ contributions, we have a strong foundation to build on.
 | Guy Ackermans            | guy.ackermans92@gmail.com
 | Dimitrios Maimaris       | dimi.maim@gmail.com
 | Marius Patrascu          | marius-florin.patrascu@ing.com 
-
+| Alexander petree         | apetree1001@email.phoenix.edu 
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
