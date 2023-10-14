@@ -2,7 +2,6 @@
  * SPDX-License-Identifier: Apache-2.0
  * Copyright Contributors to the ODPi Egeria project.
  */
-
 // This HAS to be the first block of the file
 pluginManagement {
     repositories {
@@ -383,7 +382,6 @@ include(':open-metadata-test:open-metadata-fvt:fvt-utilities')
 //    include(':open-metadata-test:open-metadata-fvt:open-types-fvt:open-types-test-generator')
 //    include(':open-metadata-test:open-metadata-fvt:open-types-fvt:open-types-test')
 //}
-
 // These are not required if the project name == the directory name but are included for clarity - for example
 // this defines a project 'bom' in the directory 'bom' (and is default, so not needed).
 //project(':bom').projectDir = file('bom')
